@@ -1,0 +1,12 @@
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  margin:1rem auto;
+  max-width: 600px;
+  width: 25;
+  padding: 20px;
+  border-style:dashed;
+  background-color:#00d0ff;
+  border-width:1px;
+  font:bold italic 15px verdana;
+}
